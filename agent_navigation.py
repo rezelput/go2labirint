@@ -1,4 +1,6 @@
 import pickle
+
+
 class Agent:
     def __init__(self, location, heading=0, speed=0,
                  angular_vel=0, radius=8.0,
